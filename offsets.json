@@ -1,0 +1,15 @@
+{
+    "dwLocalPlayerPawn": 29211408,
+    "dwLocalPlayerController": 31499080,
+    "dwEntityList": 30408336,
+    "dwViewAngles": 31624864,
+    "m_iTeamNum": 1003,
+    "m_vOldOrigin": 5536,
+    "m_angEyeAngles": 15856,
+    "m_iHealth": 844,
+    "m_bDormant": 267,
+    "m_hPlayerPawn": 2300,
+    "m_fFlags": 1016,
+    "m_iIDEntIndex": 16076,
+    "m_flFlashOverlayAlpha": 5636
+}
