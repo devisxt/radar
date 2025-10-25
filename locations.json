@@ -1,5 +1,8 @@
-[
-  {
+{
+    "name": "saukkone's HvH locations",
+    "description": "Se on moro sit.",
+	"update_timestamp": 1606533611,
+    "locations": {
   "aim_ag_texture2": [
     {
       "name": ["T Spawn", "Edge"],
@@ -169271,4 +169274,4 @@
     }
   ]
 }
-]
+}
